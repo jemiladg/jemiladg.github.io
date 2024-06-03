@@ -1,2 +1,2 @@
 # jemiladg.github.io
-## My Portfolio
+## Repository for Activities 9.1 and 9.2
